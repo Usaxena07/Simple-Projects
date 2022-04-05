@@ -25,7 +25,7 @@ public class Myclass
 		ans = obj.nextInt();
 		
 		
-		if (ans==1);
+		if (ans==1)
 		    score+=20;
 		   
 			System.out.println("Q2. Captial of India ?");
@@ -34,7 +34,7 @@ public class Myclass
 			ans = obj.nextInt();
 			
 			
-		if (ans==2);
+		if (ans==2)
 			score+=20;
 			
 			System.out.println("Q3. Captial of Sri Lanka ?");
@@ -43,7 +43,7 @@ public class Myclass
 			ans = obj.nextInt();
 			
 			
-		if (ans==1);
+		if (ans==1)
 			score+=20;
 			   	
 			System.out.println("Q4. Captial of Ukrain ?");
@@ -52,7 +52,7 @@ public class Myclass
 			ans = obj.nextInt();
 			
 			
-		if (ans==1);
+		if (ans==2)
 			score+=20;	 
 			
 			System.out.println("Q5. Captial of Bangladesh ?");
@@ -61,7 +61,7 @@ public class Myclass
 			ans = obj.nextInt();
 			
 			
-		if (ans==3);
+		if (ans==3)
 			score+=20;	
 			
 		if (score>=60)
