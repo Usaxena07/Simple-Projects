@@ -52,7 +52,11 @@ public class Myclass
 			ans = obj.nextInt();
 			
 			
+<<<<<<< HEAD
 		if (ans==1)
+=======
+		if (ans==2)
+>>>>>>> 4a0c4150b375adf2a61268482e1844c44ad2cbdc
 			score+=20;	 
 			
 			System.out.println("Q5. Captial of Bangladesh ?");
